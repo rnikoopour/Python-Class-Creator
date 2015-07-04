@@ -1,4 +1,4 @@
-# Python Class Generator
+# Python Class Creator
 ## Example
 ```
 ./classCreator "Person" "name age height weight gender"
